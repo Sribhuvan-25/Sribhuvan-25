@@ -5,12 +5,14 @@
 
 ### 💻PROGRAMMING LANGUAGES ###
 - Java
+- Python (Pandas, Numpy, Scikit-learn)
 - C++
 - Javascript
 - HTML 
 - CSS
 
 ### 🏛️FRAMEOWRKS/ LIBRARIES ###
+- Tensorflow
 - Node.js
 - Express.js
 - Bootstrap
@@ -25,6 +27,7 @@
 - Intellij
 
 ### ✔️FINISHED PROJECTS ###
+- House price predictor that which predicts prices using machine learning.
 - A photo gallery using Pexels API.
 - A webiste using GSAP library.
 
