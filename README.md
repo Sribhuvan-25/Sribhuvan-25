@@ -27,13 +27,13 @@
 - Intellij
 
 ### ✔️FINISHED PROJECTS ###
-- House price predictor that which predicts prices using machine learning.
+- Heart Failure predictor which predicts whether an heart patient would die before their follow up period
+- House price predictor which predicts prices using machine learning.
 - A photo gallery using Pexels API.
 - A webiste using GSAP library.
 
-### 😃AREAS TO BE PURSUED IN THE FUTURE ###
-- IOS Development
-- Autonomous cars
+### 😃INTERESTED AREAS ###
+- Machine Learning
 - Cloud Computing
 
 
