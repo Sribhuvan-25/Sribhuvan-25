@@ -1,7 +1,7 @@
-## Hello There 😉
+## Hello There 
 
 - Passionate about ML and app development.
-- Currently working on a research project in the area of computational musicology.
+- Currently working on a research project in the area of Endoscopic Imaging.
 
 ## Education
 - Georigia State University, Bachelor's in Computer Science [2020 - 2023]
