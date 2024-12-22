@@ -1,11 +1,7 @@
 # Hey 👋 What's up?
 
-I am a graduate student with expertise in Full Stack Development and Artificial Intelligence, driven by a passion for cutting-edge technology and innovative research.
-
-## About me
-
-✨ Creating bugs since 2021  
-🔥 I'm currently working on projects in the areas of Environmental Biotechnology and Medical Image Processing
+- I am a graduate student with expertise in Full Stack Development and Artificial Intelligence, driven by a passion for cutting-edge technology and innovative research.
+- I'm currently working on projects in the areas of Environmental Biotechnology and Medical Image Processing
 
 <div align="center">
   <img height="200" src="https://github.com/Sribhuvan-25/Sribhuvan-25/blob/main/image.png" alt="Profile Image" />
