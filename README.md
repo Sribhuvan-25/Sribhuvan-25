@@ -73,7 +73,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://drive.google.com/file/d/1xYkpL2gRO8o7DXZb-GPGJXwy6gDK6tlv/view?usp=sharing"  />
+  <img height="200" src="https://github.com/Sribhuvan-25/Sribhuvan-25/blob/main/image.png"  />
 </div>
 
 ###
