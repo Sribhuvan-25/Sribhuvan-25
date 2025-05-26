@@ -1,3 +1,5 @@
 # Hey 👋 What's up?
 
-I'm an **AI/ML Engineer** 🤖 building intelligent systems, researching computer vision & deep learning 🧬, and developing full-stack solutions 💻 with scalable architecture.
+ - Passionate about building intelligent systems.
+
+ - Currently, exploring application of deep learning techniques in the area of Anaerobic Digestion.
